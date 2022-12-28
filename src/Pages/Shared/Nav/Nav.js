@@ -11,6 +11,7 @@ const Nav = () => {
         { name: "ADD TASK", link: "/addtask" },
         { name: "MY TASK", link: "/mytask" },
         { name: "COMPLETED TASK", link: "/completedtask" },
+        { name: "Login", link: "/login"}
         
     ];
 
